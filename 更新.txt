@@ -1,0 +1,41 @@
+代理上传
+git config --global http.proxy http://127.0.0.1:10808
+git config --global https.proxy http://127.0.0.1:10808
+
+hugo  108版本，主题2021版本,目录E:\hugo_0.108.0_windows-amd64\blog2
+其他框架：mkdocs、gitbook
+1、先创建ssh密钥
+配置用户名和邮箱，先git init
+git config user.name "new_username"
+git config user.email "new_email@example.com"
+创建密钥
+ssh-keygen -t rsa -C "your_email@example.com"
+密钥添加到ssh-agent
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat文件将公钥添加到github
+
+2、再创建空仓库,以此输入以下命令
+echo "# blog5" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:zzt0341011/blog5.git
+git push -u origin main
+
+更新博客
+
+git add .
+git commit -m "add 3xui.pro"
+git push -u origin main
+git push -f origin main
+
+f是强制覆盖更新
+ 
+
+新仓库授权
+
+https://github.com/settings/installations
+
+版本110更好
