@@ -33,7 +33,7 @@ enableGitInfo = true
 
 
 
-[languages.fre]
+[languages.zh]
   languageName = 'Chinese'
   contentDir = 'content.zh'
   weight = 4
