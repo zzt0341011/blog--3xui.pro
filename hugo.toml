@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ../.. --# # # # # baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://3xui.pro/'
-title = '3xui.pro'
+baseURL = 'https://3x-ui.pro/'
+title = '3x-ui.pro'
 theme = 'hugo-book'
 
 # Book configuration
