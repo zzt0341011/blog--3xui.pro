@@ -30,7 +30,7 @@ Building your own Clash or v2ray node with 3x-ui is easier than it looks. This g
 
 Its core features are roughly as follows:
 
-**Multi-protocol support** — mainstream protocols such as VLESS, VMess, Trojan, Shadowsocks, and Wireguard can all be configured, along with newer anti-blocking transports like XTLS/Reality.
+**Multi-protocol support** — mainstream protocols such as [VLESS](https://vless.app/en), VMess, Trojan, Shadowsocks, and Wireguard can all be configured, along with newer anti-blocking transports like XTLS/Reality.
 
 **Web management panel** — no need to hand-write Xray JSON configs; you can add or remove inbounds, generate users, and configure transport-layer parameters directly in the browser.
 
