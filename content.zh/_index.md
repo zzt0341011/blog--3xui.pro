@@ -30,7 +30,7 @@ type: docs
 
 核心特点大致是：
 
-**多协议支持**——VLESS、VMess、Trojan、Shadowsocks、Wireguard 等主流协议都能配，也支持 XTLS/Reality 这类较新的抗封锁传输方式。
+**多协议支持**——[VLESS](https://vless.app/zh)、VMess、Trojan、Shadowsocks、Wireguard 等主流协议都能配，也支持 XTLS/Reality 这类较新的抗封锁传输方式。
 
 **Web 管理面板**——不用手写 Xray 的 JSON 配置，直接在浏览器里增删入站（inbound）、生成用户、配置传输层参数。
 
