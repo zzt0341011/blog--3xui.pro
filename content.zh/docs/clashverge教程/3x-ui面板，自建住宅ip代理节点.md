@@ -1,7 +1,7 @@
 ---
-title: "用 3X-UI 自建 Hysteria2 节点：从买 VPS 到端口跳跃的完整流程"
-description: "手把手记录用 3X-UI 面板在自己的 VPS 上搭建 Hysteria2（HY2）节点、开启端口跳跃，并在 Clash 系客户端里导入使用的整个过程。"
-keywords: ["3X-UI", "Hysteria2", "HY2", "自建节点", "端口跳跃", "VPS"]
+title: "用 3X-UI 面板自建住宅 IP 代理节点完整教程"
+description: "手把手教你使用 3X-UI 面板导入住宅 IP（SOCKS5），设置链式代理，实现自建住宅 IP 代理节点。适合 TikTok 养号、矩阵、直播等场景，详细讲解从购买住宅 IP 到测试的全过程。"
+keywords: ["3X-UI", "住宅IP", "自建节点", "链式代理", "SOCKS5", "TikTok运营", "代理节点"]
 weight: 8
 ---
 
