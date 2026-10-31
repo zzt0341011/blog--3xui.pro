@@ -46,15 +46,24 @@ type: docs
 
 ## 一、购买 VPS 服务器
 
-### 1、以 akile 为例，包含香港和美国服务器
+### 1、以下是几个主流vps服务器
 
-- akile 的套餐如下
 
-| 系列 / 节点 | CPU | 内存 | 硬盘 | 带宽 | 月流量 | 参考价 | 线路 / 特点 |
-|---|---|---|---|---|---|---|---|
-| [**HKLite-One**（香港轻量）](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=1&planId=811&aff_code=cbb004e0-a47c-440e-a767-2ede890c4e4f) | 1 核 | 1 GB | 10 GB SSD | 1 Gbps | 2500 GB | ¥24.99/月 | 香港 NTT/PCCW 国际，内置 Akile DNS 解锁，超售较重 |
-| [**LAX-Lite**（洛杉矶国际）](https://akile.ai/shop/server?type=traffic&areaId=2&nodeId=37&planId=1009&aff_code=34c72b4e-7d9b-41cd-bee4-be72d273fecf) | 1 核 | 1 GB | 5 GB SSD | 5 Gbps 端口 | 1 TB | ¥8.88/月 | 纯海外国际线路，无大陆优化，超限速后转共享 10Mbps 不限量 |
-| [**LAX4837-ISP**（洛杉矶双 ISP 住宅）](https://akile.ai/shop/server?type=traffic&areaId=2&nodeId=37&planId=1009&aff_code=cbb004e0-a47c-440e-a767-2ede890c4e4f) | 1 核 | 2 GB | 10 GB SSD | 1 Gbps | 1 TB | ¥49.99/月 | 原生静态 IP、双 ISP 家宽属性、三网回程 CUVIP(4837)、EPYC 宿主 |
+
+| VPS 商家                                                        | 最 低 价     | 特 点                 | 支 付 方 式                 |
+| :------------------------------------------------------------ | :-------- | :------------------ | :---------------------- |
+| [BWG版瓦工](https://1.jnk.ink/kNQBo) | \$49.99/年 | **速度最快、最稳定**        | 微信、支付宝、PayPal、信用卡       |
+| [DMIT](https://1.jnk.ink/yeLEg)                               | \$36.9/年  | CN2 GIA线路、香港 CMI 线路 | **支付宝**、PayPal、信用卡      |
+| [hostdare](https://1.jnk.ink/RjBnn)                           | \$25/年    | 大流量、速度快 CMI 线路      | **支付宝**、PayPal、信用卡      |
+| [BuyVM](https://1.jnk.ink/U2Ikm)                              | ¥2/月      | 大硬盘、无限流量、流媒体解锁      | **支付宝**、PayPal、信用卡、数字货币 |
+| [RackNerd](https://1.jnk.ink/wdqkS)                           | \$21.99/年 | **便宜**、大流量、高配置      | **支付宝**、PayPal、信用卡、数字货币 |
+| [CloudCone](https://1.jnk.ink/H4z6h)                          | \$20.25/年 | **便宜**、大流量、大硬盘      | **支付宝**、PayPal、信用卡      |
+
+
+
+
+
+
 
 - 这里我们购买 8.88 元/月的这个套餐
 - 注意，系统选择 **debian11 或者 debian12**
