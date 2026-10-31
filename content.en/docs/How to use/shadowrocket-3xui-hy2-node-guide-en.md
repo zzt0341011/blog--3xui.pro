@@ -55,11 +55,14 @@ links below are my referral links (ordering through them earns me a small commis
 the links go through a redirect and ultimately land on the official purchase page of
 the VPS provider akile.ai):
 
-| Plan | CPU | RAM | Disk | Bandwidth | Monthly Traffic | Reference Price | Line / Features |
-|---|---|---|---|---|---|---|---|
-| [**HKLite-One** (Hong Kong, light)](https://1.jnk.ink/ks2wX) | 1 core | 1 GB | 10 GB SSD | 1 Gbps | 2500 GB | ¥24.99/mo | Hong Kong NTT/PCCW international route, built-in DNS unlock, fairly oversold |
-| [**LAX-Lite** (Los Angeles, international)](https://1.jnk.ink/fnSih) | 1 core | 1 GB | 5 GB SSD | 5 Gbps port | 1 TB | ¥8.88/mo | Pure international route, no mainland China optimization, drops to shared unmetered 10Mbps after the cap |
-| [**LAX4837-ISP** (Los Angeles, dual-ISP residential)](https://1.jnk.ink/SEwxN) | 1 core | 2 GB | 10 GB SSD | 1 Gbps | 1 TB | ¥49.99/mo | Native static IP, dual-ISP residential characteristics, better return routing, EPYC host |
+| VPS Provider | Lowest Price | Features | Payment Methods |
+| :----------------------------------- | :-------- | :------------------ | :---------------------- |
+| [BandwagonHost (BWG)](https://1.jnk.ink/kNQBo) | $49.99/year | **Fastest and most stable** | WeChat, Alipay, PayPal, Credit Card |
+| [DMIT](https://1.jnk.ink/yeLEg) | $36.9/year | CN2 GIA routes, Hong Kong CMI routes | **Alipay**, PayPal, Credit Card |
+| [hostdare](https://1.jnk.ink/RjBnn) | $25/year | High traffic, fast speed, CMI routes | **Alipay**, PayPal, Credit Card |
+| [BuyVM](https://1.jnk.ink/U2Ikm) | ¥2/month | Large storage, unlimited traffic, streaming unlock | **Alipay**, PayPal, Credit Card, Cryptocurrency |
+| [RackNerd](https://1.jnk.ink/wdqkS) | $21.99/year | **Cheap**, high traffic, high configuration | **Alipay**, PayPal, Credit Card, Cryptocurrency |
+| [CloudCone](https://1.jnk.ink/H4z6h) | $20.25/year | **Cheap**, high traffic, large storage | **Alipay**, PayPal, Credit Card |
 
 If you're new to this, start with a cheaper plan to get the whole process working
 first, then decide whether to upgrade to a pricier line later.
