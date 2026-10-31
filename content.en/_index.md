@@ -50,13 +50,16 @@ Below, step by step, you'll learn how to build your own VPN node — from buying
 
 - akile's plans are as follows:
 
-| Series / Node | CPU | RAM | Disk | Bandwidth | Monthly Traffic | Ref. Price | Route / Notes |
-|---|---|---|---|---|---|---|---|
-| [**HKLite-One** (Hong Kong Lite)](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=1&planId=811&aff_code=cbb004e0-a47c-440e-a767-2ede890c4e4f) | 1 core | 1 GB | 10 GB SSD | 1 Gbps | 2500 GB | ¥24.99/mo | Hong Kong NTT/PCCW international, built-in Akile DNS unlock, fairly oversold |
-| [**LAX-Lite** (Los Angeles International)](https://akile.ai/shop/server?type=traffic&areaId=2&nodeId=37&planId=1009&aff_code=34c72b4e-7d9b-41cd-bee4-be72d273fecf) | 1 core | 1 GB | 5 GB SSD | 5 Gbps port | 1 TB | ¥8.88/mo | Pure overseas international route, no mainland optimization; throttles to shared 10 Mbps unlimited after the cap |
-| [**LAX4837-ISP** (Los Angeles Dual-ISP Residential)](https://akile.ai/shop/server?type=traffic&areaId=2&nodeId=37&planId=1009&aff_code=cbb004e0-a47c-440e-a767-2ede890c4e4f) | 1 core | 2 GB | 10 GB SSD | 1 Gbps | 1 TB | ¥49.99/mo | Native static IP, dual-ISP residential attributes, three-network CUVIP(4837) return route, EPYC host |
+| VPS Provider | Lowest Price | Features | Payment Methods |
+| :----------------------------------- | :-------- | :------------------ | :---------------------- |
+| [BandwagonHost (BWG)](https://1.jnk.ink/kNQBo) | $49.99/year | **Fastest and most stable** | WeChat, Alipay, PayPal, Credit Card |
+| [DMIT](https://1.jnk.ink/yeLEg) | $36.9/year | CN2 GIA routes, Hong Kong CMI routes | **Alipay**, PayPal, Credit Card |
+| [hostdare](https://1.jnk.ink/RjBnn) | $25/year | High traffic, fast speed, CMI routes | **Alipay**, PayPal, Credit Card |
+| [BuyVM](https://1.jnk.ink/U2Ikm) | ¥2/month | Large storage, unlimited traffic, streaming unlock | **Alipay**, PayPal, Credit Card, Cryptocurrency |
+| [RackNerd](https://1.jnk.ink/wdqkS) | $21.99/year | **Cheap**, high traffic, high configuration | **Alipay**, PayPal, Credit Card, Cryptocurrency |
+| [CloudCone](https://1.jnk.ink/H4z6h) | $20.25/year | **Cheap**, high traffic, large storage | **Alipay**, PayPal, Credit Card |
 
-- Here we'll buy the ¥8.88/month plan.
+- Here we'll buy the 21.99$/year plan.
 - Note: choose **Debian 11 or Debian 12** as the operating system.
 
 ![3xui-1001.jpg](https://3x-ui.pro/img/3xui-1001.jpg)
