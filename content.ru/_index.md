@@ -62,7 +62,7 @@ type: docs
 - Здесь мы покупаем тариф за 21.99$/year.
 - Важно: в качестве системы выберите **Debian 11 или Debian 12**.
 
-![3xui-1001.jpg](https://3x-ui.pro/img/3xui-1001.jpg)
+![3xui-1001.jpg](https://3x-ui.pro/img/33xui-1001.jpg)
 
 ### 1.2 Запуск сервера
 
