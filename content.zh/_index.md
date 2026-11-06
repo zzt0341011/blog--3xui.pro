@@ -68,7 +68,7 @@ type: docs
 - 这里我们购买 21.99 美元/年的这个套餐
 - 注意，系统选择 **debian11 或者 debian12**
 
-![3xui-1001.jpg](https://3x-ui.pro/img/3xui-1001.jpg)
+![3xui-1001.jpg](https://3x-ui.pro/img/33xui-1001.jpg)
 
 ### 2、启动服务器
 
