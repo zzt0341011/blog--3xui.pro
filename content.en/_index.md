@@ -62,7 +62,7 @@ Below, step by step, you'll learn how to build your own VPN node — from buying
 - Here we'll buy the 21.99$/year plan.
 - Note: choose **Debian 11 or Debian 12** as the operating system.
 
-![3xui-1001.jpg](https://3x-ui.pro/img/3xui-1001.jpg)
+![3xui-1001.jpg](https://3x-ui.pro/img/33xui-1001.jpg)
 
 ### 1.2 Start the server
 
